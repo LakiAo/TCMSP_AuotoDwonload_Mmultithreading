@@ -4,4 +4,3 @@ Because molecular virtual screening is required, it is necessary to use the comp
 ```python  
 pip3 install requests  
 ```
-At the same time, I have also provided the file I downloaded, named ``TCMSP.zip``.  
